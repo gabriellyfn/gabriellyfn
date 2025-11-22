@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👩‍💻 Prazer, Gaby!
+Meu mundo dev  
+🎓 GTI (FATEC) | 💻 Desenvolvedora em formação | 📚✨ Aprendizado Constante  
 
-<!--
-**gabriellyfn/gabriellyfn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim ☕🐾
+Olá! Me chamo Gabrielly, tenho 21 anos e estou cursando Gestão da tecnologia da informção na FATEC. Sou apaixonada no mundo da programação e desenvolvimento, por isso estou constantemente realizando meus projetos pessoais e fazendo cursos extras para evoluir na área. Com foco no BackEnd, tenho desenvolvido meus códigos principalmente em Python e Java!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho entusiasmo em aprender coisas novas, automatizar tarefas, criar soluções e em desenvolver meus próprios códigos.
+
+
+Aqui você acompanha minha evolução e meus projetos em andamento! 🌼  
+
+---
+
+## 🌟 Tecnologias e Ferramentas que estudo
+- 🐍 **Python**  
+- ☕ **Java**  
+
