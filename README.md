@@ -11,7 +11,6 @@ desenvolvido meus códigos principalmente em Python e Java!
 ➤ Tenho entusiasmo por aprender, automatizar tarefas e criar minhas próprias soluções e códigos.
 Aqui compartilho minha evolução e os projetos que estou desenvolvendo! 
 
----
 
 ## Tecnologias e Ferramentas que estudo ⚙️
 - 🐍 **Python**  
