@@ -1,6 +1,6 @@
 <h1 align="center">💫 Meu espaço dev!
   
-🎓 GTI (FATEC) | 💻 Desenvolvedora em formação | ↗️ Upgrade diário
+🎓 GTI (FATEC) | 💻 Desenvolvedora em formação
 
 ## Sobre mim ✨
 ➤ Olá! Me chamo Gabrielly, tenho 21 anos e estou cursando o 2º período de Gestão da tecnologia da informção na FATEC. Sou apaixonada pelo mundo da programação
