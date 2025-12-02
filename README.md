@@ -10,9 +10,9 @@
 ## 👩🏽‍💻 Sobre mim
 <div align="justify">
 
-<p><i>Sou a Gaby! Tenho 21 anos e curso Gestão da Tecnologia da Informação na <strong>FATEC Barueri</strong>.</i></p>
+<p><i>Sou a Gaby! Tenho 21 anos e curso <strong>Gestão da Tecnologia da Informação</strong> na <strong>FATEC</strong>, de Barueri.</i></p>
 
-<p><i>Apaixonada por programação e focada em Back-End com <strong>Python</strong>, <strong>Java</strong> e iniciando meus estudos em <strong>Spring Boot</strong>.</i></p>
+<p><i>Apaixonada por programação e focada em Back-End com <strong>Python</strong>, <strong>Java</strong> e iniciando meus estudos em frameworks como <strong>Spring Boot</strong>.</i></p>
 
 <p><i>Adoro participar de <strong>eventos tech</strong>, <strong>meets</strong>, <strong>comunidades de tecnologia</strong> e projetos extracurriculares da faculdade — incluindo um pequeno projeto de prompts de <strong>IA</strong> do qual já participei.</i></p>
 
@@ -33,7 +33,7 @@
 </div>
 
 
-<p align="center">Obrigada por visitar meu perfil! ✨</p>
+
 
 
 
