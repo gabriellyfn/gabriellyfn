@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  🎓 GTI (FATEC) • 💻 Desenvolvedora em formação • Back-End
+  <i>🎓 GTI (FATEC) • 💻 Desenvolvedora em formação • Back-End</i>
 </p>
 
 ## 👩🏽‍💻 Sobre mim
