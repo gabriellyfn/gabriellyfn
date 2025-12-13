@@ -7,7 +7,7 @@
   <i>🎓 GTI (FATEC) • 💻 Desenvolvedora em formação • Back-End</i>
 </p>
 
-## 👩🏽‍💻 Sobre mim
+## ⭐ Sobre mim
 <div align="justify">
 
 <p><i>Sou a Gaby! Tenho 21 anos e curso <strong>Gestão da Tecnologia da Informação</strong> na <strong>FATEC</strong>, de Barueri.</i></p>
