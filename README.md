@@ -14,7 +14,7 @@
 
 <p><i>Apaixonada por programação e focada em Back-End com <strong>Python</strong>, <strong>Java</strong> e iniciando meus estudos em frameworks como <strong>Spring Boot</strong>.</i></p>
 
-<p><i>Adoro participar de <strong>eventos tech</strong>, <strong>meets</strong>, <strong>comunidades de tecnologia</strong> e projetos extracurriculares da faculdade — incluindo um pequeno projeto de prompts de <strong>IA</strong> do qual já participei.</i></p>
+<p><i>Participo ativamente de <strong>eventos tech</strong>, <strong>meet-ups</strong> e <strong>comunidades de tecnologia</strong>, aproveitando cada oportunidade para adquirir novos aprendizados e fortalecer minha rede de contatos com pessoas da área.</i></p>
 
 <p><i>Aqui compartilho minha evolução e os projetos que estou desenvolvendo!</i></p>
 
