@@ -1,10 +1,10 @@
 <h1 align="center">
-  Welcome, I'm Gaby!  
+  Welcome, I´m Gaby  
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
 <p align="center">
-  <i>🎓 GTI (FATEC) • Back-End</i>
+  <i>🎓 Fatec • Back-End Development</i>
 </p>
 
 ## ⭐ Sobre mim
