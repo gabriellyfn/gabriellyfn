@@ -1,5 +1,5 @@
 <h1 align="center">
-  Welcome, I´m Gaby  
+  𝗢𝗶𝗶! 𝗦𝗼𝘂 𝗮 𝗚𝗮𝗯𝘆  
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
@@ -36,17 +36,27 @@
 </div>
 
 
-## ☕ 𝗟𝗲𝘁’𝘀 𝗖𝗼𝗻𝗻𝗲𝗰𝘁
+## ☕ 𝗡𝗲𝘁𝘄𝗼𝗿𝗸
 
 <p align="center">
+
 <a href="https://www.linkedin.com/in/gabriellyfn" target="_blank">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+       width="35"
+       style="background-color:#0A66C2; padding:6px; border-radius:6px;">
 </a>
 
 <a href="mailto:gaby.gdmc@gmail.com">
-  <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg"
+       width="35"
+       style="background-color:#D14836; padding:6px; border-radius:6px; filter: invert(1);">
 </a>
+
 </p>
+
+
+
+
 
 
 
