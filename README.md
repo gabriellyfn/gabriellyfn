@@ -7,7 +7,7 @@
   <i>🎓 Fatec • Back-End Development</i>
 </p>
 
-## ⭐ 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲
+## ⭐ 𝗦𝗼𝗯𝗿𝗲 𝗠𝗶𝗺
 
 <div align="justify">
 
