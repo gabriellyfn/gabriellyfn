@@ -11,9 +11,9 @@
 
 <div align="justify">
 
-<p><i>Sou a Gaby! Tenho 21 anos e curso <strong>Gestão da Tecnologia da Informação</strong> na <strong>FATEC</strong>, de Barueri.</i></p>
+<p><i>Bem-vindo ao meu perfil! Desenvolvedora Back-End em formação, apaixonada por tecnologia e programação!  
 
-<p><i>Apaixonada por programação e focada em Back-End com <strong>Python</strong>, <strong>Java</strong> e iniciando meus estudos em frameworks como <strong>Spring Boot</strong>.</i></p>
+<p><i>Cursando <strong>Gestão da Tecnologia da Informação</strong> na <strong>FATEC</strong> de Barueri e focando meus estudos em <strong>Java</strong> e frameworks como <strong>Spring Boot</strong>, com ênfase na construção de APIs, boas práticas e arquitetura de software.</i></p>
 
 <p><i>Participo ativamente de <strong>eventos tech</strong>, <strong>meet-ups</strong> e <strong>comunidades de tecnologia</strong>, aproveitando cada oportunidade para adquirir novos aprendizados e fortalecer minha rede de contatos com pessoas da área.</i></p>
 
