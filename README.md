@@ -7,22 +7,30 @@
   <i>🎓 Fatec • Back-End Development</i>
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabriellyfn" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:gaby.gdmc@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
+---
+
 ## ⭐ 𝗦𝗼𝗯𝗿𝗲 𝗠𝗶𝗺
 
 <div align="justify">
 
-<p><i>Bem-vindo ao meu perfil! Desenvolvedora Back-End em formação, apaixonada por tecnologia e programação!  
+Bem-vindo ao meu perfil! Desenvolvedora Back-End em formação, apaixonada por tecnologia e programação!  
 
-<p><i>Cursando <strong>Gestão da Tecnologia da Informação</strong> na <strong>FATEC</strong> de Barueri e focando meus estudos em <strong>Java</strong> e frameworks como <strong>Spring Boot</strong>, com ênfase na construção de APIs, boas práticas e arquitetura de software.</i></p>
+Cursando **Gestão da Tecnologia da Informação** na **FATEC** de Barueri e focando meus estudos em **Java** e frameworks como **Spring Boot**, com ênfase na construção de APIs, boas práticas e arquitetura de software.
 
-<p><i>Participo ativamente de <strong>eventos tech</strong>, <strong>meet-ups</strong> e <strong>comunidades de tecnologia</strong>, aproveitando cada oportunidade para adquirir novos aprendizados e fortalecer minha rede de contatos com pessoas da área.</i></p>
+Participo ativamente de **eventos tech**, **meet-ups** e **comunidades de tecnologia**, aproveitando cada oportunidade para adquirir novos aprendizados e fortalecer minha rede de contatos com pessoas da área.
 
-<p><i>Aqui compartilho minha evolução e os projetos que estou desenvolvendo!</i></p> <a href="https://www.linkedin.com/in/gabriellyfn" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+Aqui compartilho minha evolução e os projetos que estou desenvolvendo!
 
 </div>
-
 
 ## ⚙️ 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
 
@@ -34,8 +42,6 @@
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/INTELLIJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-
-</div>
 
 
 
