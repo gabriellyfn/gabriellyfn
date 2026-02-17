@@ -17,7 +17,9 @@
 
 <p><i>Participo ativamente de <strong>eventos tech</strong>, <strong>meet-ups</strong> e <strong>comunidades de tecnologia</strong>, aproveitando cada oportunidade para adquirir novos aprendizados e fortalecer minha rede de contatos com pessoas da área.</i></p>
 
-<p><i>Aqui compartilho minha evolução e os projetos que estou desenvolvendo!</i></p>
+<p><i>Aqui compartilho minha evolução e os projetos que estou desenvolvendo!</i></p> <a href="https://www.linkedin.com/in/gabriellyfn" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
 </div>
 
@@ -36,23 +38,9 @@
 </div>
 
 
-## ☕ 𝗡𝗲𝘁𝘄𝗼𝗿𝗸
 
-<p align="center">
 
-<a href="https://www.linkedin.com/in/gabriellyfn" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-       width="35"
-       style="background-color:#0A66C2; padding:6px; border-radius:6px;">
-</a>
 
-<a href="mailto:gaby.gdmc@gmail.com">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg"
-       width="35"
-       style="background-color:#D14836; padding:6px; border-radius:6px; filter: invert(1);">
-</a>
-
-</p>
 
 
 
