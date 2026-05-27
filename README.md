@@ -13,6 +13,7 @@
 
 </h4>
 
+<h4 align="left">
 ✦ Participo ativamente de **eventos tech**, **meet-ups** e **comunidades de tecnologia**, aproveitando cada oportunidade para adquirir novos aprendizados e fortalecer minha rede de contatos com pessoas da área. Aqui compartilho minha evolução e os projetos que estou desenvolvendo!
 
 </h4>
