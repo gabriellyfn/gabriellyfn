@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://i.pinimg.com/1200x/27/c2/3c/27c23c7e6dfe0856c23697f786804e37.jpg" width="40%" />
+  <img src="https://i.pinimg.com/originals/69/7c/b0/697cb01edaa30cd11c5c06cc5b924411.gif" width="40%" />
 </div>
 
 ###
 
-<h1 align="left">Oii! Eu sou a Gaby 👋</h1>
+<h1 align="left">Olá, sou a Gaby!☕</h1>
 
 ###
 
