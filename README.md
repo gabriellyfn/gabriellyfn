@@ -10,18 +10,15 @@
 
 <h4 align="left">
 ✦ Desenvolvedora Back-End em formação, apaixonada por tecnologia e programação! Cursando Gestão da Tecnologia da Informação na FATEC de Barueri e focando meus estudos em Java e frameworks como Spring Boot, com ênfase na construção de APIs, boas práticas e arquitetura de software.
-
 </h4>
 
 <h4 align="left">
-✦ Participo ativamente de **eventos tech**, **meet-ups** e **comunidades de tecnologia**, aproveitando cada oportunidade para adquirir novos aprendizados e fortalecer minha rede de contatos com pessoas da área. Aqui compartilho minha evolução e os projetos que estou desenvolvendo!
-
+✦ Participo ativamente de <strong>eventos tech</strong>, <strong>meet-ups</strong> e <strong>comunidades de tecnologia</strong>, aproveitando cada oportunidade para adquirir novos aprendizados e fortalecer minha rede de contatos com pessoas da área. Aqui compartilho minha evolução e os projetos que estou desenvolvendo!
 </h4>
 
 ###
 
-<h3 align="left">Tecnologias</h3>
-
+<h3 align="left">Tecnologias⚙️</h3>
 
 ![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -34,18 +31,12 @@
 
 ###
 
-<h3 align="left">Entre em contato!</h3>
-
-###
+<h3 align="left">Vamos nos conectar?</h3>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/gabriellyfn" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="30" alt="linkedin logo" />
-  </a>
 
-  <a href="mailto:gaby.gdmc@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="30" alt="gmail logo" />
-  </a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriellyfn)
+
 </div>
 
 ###
@@ -53,20 +44,5 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gabriellyfn&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellyfn&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
