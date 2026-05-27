@@ -1,38 +1,26 @@
-<h1 align="center">
-  𝗢𝗶𝗶! 𝗦𝗼𝘂 𝗮 𝗚𝗮𝗯𝘆  
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</h1>
-
-<p align="center">
-  <i>🎓 Fatec • Back-End Development</i>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/gabriellyfn" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:gaby.gdmc@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</p>
-
----
-
-## ⭐ 𝗦𝗼𝗯𝗿𝗲 𝗠𝗶𝗺
-
-<div align="justify">
-
-Bem-vindo ao meu perfil! Desenvolvedora Back-End em formação, apaixonada por tecnologia e programação!  
-
-Cursando **Gestão da Tecnologia da Informação** na **FATEC** de Barueri e focando meus estudos em **Java** e frameworks como **Spring Boot**, com ênfase na construção de APIs, boas práticas e arquitetura de software.
-
-Participo ativamente de **eventos tech**, **meet-ups** e **comunidades de tecnologia**, aproveitando cada oportunidade para adquirir novos aprendizados e fortalecer minha rede de contatos com pessoas da área.
-
-Aqui compartilho minha evolução e os projetos que estou desenvolvendo!
-
+<div align="center">
+  <img src="https://i.pinimg.com/1200x/27/c2/3c/27c23c7e6dfe0856c23697f786804e37.jpg" width="40%" />
 </div>
 
-## ⚙️ 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
+###
+
+<h1 align="left">Oii! Eu sou a Gaby 👋</h1>
+
+###
+
+<h4 align="left">
+✦ Desenvolvedora Back-End em formação, apaixonada por tecnologia e programação! Cursando Gestão da Tecnologia da Informação na FATEC de Barueri e focando meus estudos em Java e frameworks como Spring Boot, com ênfase na construção de APIs, boas práticas e arquitetura de software.
+
+</h4>
+
+✦ Participo ativamente de **eventos tech**, **meet-ups** e **comunidades de tecnologia**, aproveitando cada oportunidade para adquirir novos aprendizados e fortalecer minha rede de contatos com pessoas da área. Aqui compartilho minha evolução e os projetos que estou desenvolvendo!
+
+</h4>
+
+###
+
+<h3 align="left">Tecnologias</h3>
+
 
 ![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -42,6 +30,30 @@ Aqui compartilho minha evolução e os projetos que estou desenvolvendo!
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/INTELLIJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+
+###
+
+<h3 align="left">Entre em contato!</h3>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/gabriellyfn" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="30" alt="linkedin logo" />
+  </a>
+
+  <a href="mailto:gaby.gdmc@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="30" alt="gmail logo" />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabriellyfn&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</div>
 
 
 
