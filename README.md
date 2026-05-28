@@ -1,24 +1,31 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/14/e2/64/14e264b34a25d65ec592e996c783d48d.gif" width="40%" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:89f7fe,100:66a6ff&height=180&section=header&text=Gabrielly%20Nascimento&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=BackEnd%20Developer%20%7C%20Java%20%7C%20Spring%20%7C%20APIRest%20%7C%20CloudComputing&descAlignY=60&descAlign=50&descSize=12"
+    width="100%"
+  />
 </div>
 
+<table border="0" width="100%">
+  <tr>
+    <td width="60%" valign="top">
+
 ###
 
-<h1 align="left">Olá, sou a Gaby!☕</h1>
+<h1 align="left">Olá, bem-vindo(a)!☕</h2>
 
 ###
 
 <h4 align="left">
-✦ Desenvolvedora Back-End em formação, apaixonada por tecnologia e programação! Cursando Gestão da Tecnologia da Informação na FATEC de Barueri e focando meus estudos em Java e frameworks como Spring Boot, com ênfase na construção de APIs, boas práticas e arquitetura de software.
+✦ Desenvolvedora Back-End, entusiasta em tecnologia e programação! Cursando Gestão da Tecnologia da Informação na FATEC de Barueri e focando meus estudos em Java e Spring Boot, com ênfase na construção de APIs, boas práticas e arquitetura de software.
 </h4>
 
 <h4 align="left">
-✦ Participo ativamente de <strong>eventos tech</strong>, <strong>meet-ups</strong> e <strong>comunidades de tecnologia</strong>, aproveitando cada oportunidade para adquirir novos aprendizados e fortalecer minha rede de contatos com pessoas da área. Aqui compartilho minha evolução e os projetos que estou desenvolvendo!
+✦ Participando ativamente de <strong>eventos tech</strong>, <strong>meet-ups</strong> e <strong>comunidades de tecnologia</strong>, aproveitando cada oportunidade para adquirir novos aprendizados e fortalecer minha rede de contatos com pessoas da área. Aqui compartilho minha evolução e os projetos que estou desenvolvendo!
 </h4>
 
 ###
 
-<h3 align="left">Tecnologias⚙️</h3>
+<h3 align="left">Stack</h3>
 
 ![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -42,7 +49,5 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabriellyfn&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellyfn&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+ 
 </div>
