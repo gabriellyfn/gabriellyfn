@@ -1,6 +1,6 @@
 <div align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:89f7fe,100:66a6ff&height=180&section=header&text=Gabrielly%20Nascimento&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=BackEnd%20Developer%20%7C%20Java%20%7C%20Spring%20%7C%20APIRest%20%7C%20CloudComputing&descAlignY=60&descAlign=50&descSize=12"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:89f7fe,100:66a6ff&height=180&section=header&text=Gabrielly%20Nascimento&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=BackEnd%20Developer%20%7C%20Java%20%7C%20Spring%20%7C%20Python%20%7C%20CloudComputing&descAlignY=60&descAlign=50&descSize=12"
     width="100%"
   />
 </div>
@@ -16,7 +16,7 @@
 ###
 
 <h4 align="left">
-✦ Desenvolvedora Back-End, entusiasta em tecnologia e programação! Cursando Gestão da Tecnologia da Informação na FATEC de Barueri e focando meus estudos em Java e Spring Boot, com ênfase na construção de APIs, boas práticas e arquitetura de software.
+✦ Desenvolvedora Back-End, entusiasta em tecnologia e programação! Cursando Gestão da Tecnologia da Informação na FATEC e atuando no time de AI Engineering da Oracle. Desenvolvo soluções inovadoras, Agentes de IA autônomos, em Python, que geram impacto e que se integram em sistema de grande escala.
 </h4>
 
 <h4 align="left">
